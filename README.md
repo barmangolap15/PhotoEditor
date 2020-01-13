@@ -96,7 +96,13 @@ We need to add
 
 <img src="photo/Screenshot (37).png">
 
+# Screenshot of the App
 
+<img src="photo/splash.png" width="250" height="450">   <img src="photo/2nd.png" width="250" height="450">    <img src="photo/3rd.png" width="250" height="450">
+
+<img src="photo/4th.png" width="250" height="450">    <img src="photo/5th.png" width="250" height="450">    <img src="photo/6th.png" width="250" height="450">
+
+<img src="photo/7th.png" width="250" height="450">    <img src="photo/8th.png" width="250" height="450">
 
 
 
